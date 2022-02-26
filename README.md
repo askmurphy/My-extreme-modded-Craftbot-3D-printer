@@ -3,6 +3,8 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
+My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & heated bed.
+ 
 | Just a few photo's | will be updated soon! |
 |------------|-------------|
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") |
