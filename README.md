@@ -30,6 +30,9 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Improved heated bed](https://eu.craftbot.com/products/craftbot-plus-pro-glass-build-plate) (optional)
 
+* [Craftbot plus all-metal hotend](https://eu.craftbot.com/collections/spare-parts/products/craftbot-plus-pro-all-metal-hotend
+) (optional)
+
 # Used firmware
 
 * [RepRap firmware, created by a few great people!!](https://github.com/gloomyandy/RepRapFirmware) 
