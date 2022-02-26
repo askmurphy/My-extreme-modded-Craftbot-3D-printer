@@ -48,6 +48,16 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * 24v fan (to replace original 12v heaterfan)
 * 2x 24v fan (to replace original 12v objectfans)
 
+# Wiring
+
+* Connect the 'RepRapFirmare Raspberry Pi to SKR Adapter' to the RPI3, connect the adapter to SKR-EXP2 using a 10wires-flatcable and 2x (2x5pins) connectors
+* Connect the X-stepper (Craftbot back right stepper) to SKR-XM
+* Connect the Y-stepper (Craftbot back left stepper) to SKR-YM
+* Connect the Z-stepper (Craftbot back middle stepper) to SKR-ZMA
+* Connect the E-stepper (Craftbot extruder stepper) to SKR-E0M
+ 
+
+
 # Used firmware
 
 * [RepRap firmware, created by a few great people!!](https://github.com/gloomyandy/RepRapFirmware) 
