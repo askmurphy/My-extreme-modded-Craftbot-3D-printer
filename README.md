@@ -9,6 +9,9 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 | ![Alt text](img/modded-craftbot-backside.jpg?raw=true "Backside") | 
 
 
+# Hardware setup
+* first off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Pro, pinout image is added in this folder: img/SKR-V1.4-Turbo-pinout.jpg
+
 # Used hardware
 
 * [Bigtreetech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
