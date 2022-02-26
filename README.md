@@ -15,19 +15,6 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * Get the backplate for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 * Get some hardware, see list below
 
-# Hardware list
-* BigTreeTech SKR1.4 (turbo) mainboard
-* 4x BigTreeTech TMC2209 stepperdrivers
-* BigTreeTech TFT3.5 v3.0 display
-* BigTreeTech BTT Writer v1.0 (optional, WIFI adapter * programmer)
-* 35cm neopixel 12volt (60 leds/meter) RGB-ledstrip (we will replace the original white ledstrip)
-* stepdown XL6009e converter (we need this for the ledstrip)
-* flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
-60cm flatkabel 2wires (for Y-end switch)
-* 2x 240cm wire (for fans)
-* 24v fan (to replace original 12v heaterfan)
-* 2x 24v fan (to replace original 12v objectfans)
-
 # RepRap software setup
 * Please follow all the instruction on the firmware-website below.
 * To make the Craftbot and SKR1.4 setup more easy for you, here is a full copy of my SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
@@ -39,6 +26,8 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Bigtreetech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
 
+* 4x BigTreeTech TMC2209 stepperdrivers
+
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
 * [RepRapFirmare Raspberry Pi to SKR 1.X Adapter for easy connect (one of Peter’s great creations!)](https://www.tindie.com/products/pcr/reprapfirmware-raspberry-pi-to-skr-1314progtr/) 
@@ -49,6 +38,15 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Craftbot plus all-metal hotend](https://eu.craftbot.com/collections/spare-parts/products/craftbot-plus-pro-all-metal-hotend
 ) (optional)
+
+* BigTreeTech BTT Writer v1.0 (optional, WIFI adapter * programmer)
+* 35cm neopixel 12volt (60 leds/meter) RGB-ledstrip (we will replace the original white ledstrip)
+* stepdown XL6009e converter (we need this for the ledstrip)
+* flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
+60cm flatkabel 2wires (for Y-end switch)
+* 2x 240cm wire (for fans)
+* 24v fan (to replace original 12v heaterfan)
+* 2x 24v fan (to replace original 12v objectfans)
 
 # Used firmware
 
