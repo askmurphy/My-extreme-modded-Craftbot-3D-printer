@@ -11,11 +11,13 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 # Used hardware
 
-* [BigTree Tech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
+* [Bigtreetech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
 
-* [BigTree Tech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) 
+* [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) 
 
+* [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
+* [RepRapFirmare Raspberry Pi to SKR 1.X Adapter for easy connect](https://www.tindie.com/products/pcr/reprapfirmware-raspberry-pi-to-skr-1314progtr/) 
 
 
 # Used firmware
