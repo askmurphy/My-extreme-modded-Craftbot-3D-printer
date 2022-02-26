@@ -26,7 +26,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
-* [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html): optional
+* [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) (optional)
 
 # Used firmware
 
