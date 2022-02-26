@@ -47,6 +47,9 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [stepdown XL6009e converter for ledstrip](https://nl.aliexpress.com/item/32340934616.html)
 
+* [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter]
+(https://www.tinytronics.nl/shop/en/power/voltage-converters/buck-(step-down)-converters/dc-dc-adjustable-step-down-buck-converter-xl4015-5a-with-current-limiter)
+
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
 60cm flatkabel 2wires (for Y-end switch)
 * 2x 240cm wire (for fans)
@@ -56,6 +59,8 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 # Wiring
 
 * Connect the 'RepRapFirmare Raspberry Pi to SKR Adapter' to the RPI3, connect the adapter to SKR:EXP2 using a 10-wire-flatcable and 2x (2x5pins) connectors
+* Connect the input of the stepdown XL4015 converter to the 24V PSU, tune the output of the converter to 5Volt
+* Connect the 5V/GND of the 'RepRapFirmare Raspberry Pi to SKR Adapter' to the output of the stepdown XL4015 converter
 * Connect the X-stepper (Craftbot back right stepper) to SKR:XM
 * Connect the Y-stepper (Craftbot back left stepper) to SKR:YM
 * Connect the Z-stepper (Craftbot back middle stepper) to SKR:ZMA
@@ -65,10 +70,20 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * Connect the Z-stop (Inside Craftbot back left switch) to 
 SKR:Z-STOP
 * Connect the hotend-heater to SKR:E0
+* Connect the hotend-thermistor to SKR:TH0
 * Connect the bed-heater to SKR:HB
+* Connect the bed-thermister to SKR:TB
 * Connect the 24V PSU to SKR:POWER
+* Connect DFRobot Gravity MOSFET controller1 VIN/GND to SKR:FAN1
+* Connect DFRobot Gravity MOSFET controller1 VOUT/GND to the extruder FAN
+* Connect DFRobot Gravity MOSFET controller1 D to SKR:PWRDET
+* Connect the Object coolerfan to SKR:FAN0
+* Connect the TFT3.5 v3.0 to SKR:TFT using a 5-wire cable.
+* Connect the 2 datalines of the LED-strip to SKR:Neopixel
+* Connect the input of the stepdown XL6009e converter to the 24V PSU, tune the output of the converter to 12Volt
+* Connect the 12V/GND of the LED-strip to the output of the stepdown XL6009e converter
 
-=> List not complete yet, waiting for new backplate print...
+=> List not complete yet: Case fan details will be added asap.
 
 => Allways check every connection twice, make sure you use the correct polarity!!
 
