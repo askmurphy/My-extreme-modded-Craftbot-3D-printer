@@ -9,14 +9,14 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 | ![Alt text](img/modded-craftbot-backside.jpg?raw=true "Backside") | 
 
 
-# Hardware setup
+# Let's MODDING your Craftbot!
 * First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Pro, you can find the pinout image here: img/SKR-V1.4-Turbo-pinout.jpg
 * Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
 * Get the backplate for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 
 # Software setup
 * Please follow all the instruction on the firmware-website below.
-* You can find the firmware setup for the Craftbot and SKR1.4Pro here, just a full copy of the SDcard which is fitted in the SKR1.4pro mainboard:
+* You can find the firmware setup for the Craftbot and SKR1.4Pro here, just a full copy of the SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
 
 # Used hardware
 
