@@ -17,12 +17,12 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
-* [RepRapFirmare Raspberry Pi to SKR 1.X Adapter for easy connect](https://www.tindie.com/products/pcr/reprapfirmware-raspberry-pi-to-skr-1314progtr/) 
+* [RepRapFirmare Raspberry Pi to SKR 1.X Adapter for easy connect (one of Peter’s great creations!](https://www.tindie.com/products/pcr/reprapfirmware-raspberry-pi-to-skr-1314progtr/) 
 
 
 # Used firmware
 
-* [RepRap firmware, created by a few great people](https://github.com/gloomyandy/RepRapFirmware) 
+* [RepRap firmware, created by a few great people!!](https://github.com/gloomyandy/RepRapFirmware) 
 
 # Tips
 - get some free time and have patient ;-)
