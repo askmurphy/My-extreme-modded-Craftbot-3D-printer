@@ -18,6 +18,9 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * Please follow all the instruction on the firmware-website below.
 * To make the Craftbot and SKR1.4 setup more easy for you, here is a full copy of my SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
 
+* For starters, you can use my Marlin-setup first, to test your Craftbot with the SKR1.4Pro (without RPI3). You can find the complete Marlin setup code here: 
+(this will not be updated anymore)
+
 # Used hardware
 
 * [Bigtreetech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
