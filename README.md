@@ -11,6 +11,8 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 # Hardware setup
 * First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Pro, you can find the pinout image here: img/SKR-V1.4-Turbo-pinout.jpg
+* Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
+* Get the backplate for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 
 # Used hardware
 
