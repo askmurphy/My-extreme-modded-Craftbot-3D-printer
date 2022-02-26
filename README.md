@@ -16,7 +16,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 # Software setup
 * Please follow all the instruction on the firmware-website below.
-* You can find the firmware setup for the Craftbot and SKR1.4Pro here, just a full copy of the SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
+* To make the Craftbot and SKR1.4 setup more easy for you, here is a full copy of my SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
 
 # Used hardware
 
