@@ -61,6 +61,12 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * Connect the Y-stop (Inside Craftbot front right switch) to SKR:Y-STOP
 * Connect the Z-stop (Inside Craftbot back left switch) to 
 SKR:Z-STOP
+* Connect the hotend-heater to SKR:E0
+* Connect the bed-heater to SKR:HB
+* Connect the 24V PSU to SKR:POWER
+
+=> Allways check every connection twice, make sure you use the correct polarity!!
+
 
 # Used firmware
 
