@@ -68,6 +68,8 @@ SKR:Z-STOP
 * Connect the bed-heater to SKR:HB
 * Connect the 24V PSU to SKR:POWER
 
+=> List not complete yet, waiting for new backplate print...
+
 => Allways check every connection twice, make sure you use the correct polarity!!
 
 
