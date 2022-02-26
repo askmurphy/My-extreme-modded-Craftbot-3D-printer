@@ -3,12 +3,10 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
-This is a nice LoRa sensor for measuring the pH and the temperature of your swimming pool, drainage-basin or whatever you like.
-
 | Just a few photo's | will be updated soon! |
 |------------|-------------|
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") |
-[Alt text](img/modded-craftbot-backside.jpg?raw=true "Backside")
+| ![Alt text](img/modded-craftbot-backside.jpg?raw=true "Backside") | 
 
 
 # Used firmware
