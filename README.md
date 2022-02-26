@@ -39,7 +39,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * [Craftbot plus all-metal hotend](https://eu.craftbot.com/collections/spare-parts/products/craftbot-plus-pro-all-metal-hotend
 ) (optional)
 
-* BigTreeTech BTT Writer v1.0 (Marlin only, optional, WIFI adapter * programmer)
+* BigTreeTech BTT Writer v1.0 (optional, Marlin only, WIFI adapter * programmer)
 * 35cm neopixel 12volt (60 leds/meter) RGB-ledstrip (we will replace the original white ledstrip)
 * stepdown XL6009e converter (we need this for the ledstrip)
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
