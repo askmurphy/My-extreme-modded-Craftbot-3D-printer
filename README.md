@@ -28,7 +28,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) (optional)
 
-* [Improved heated bed](https://www.makerpoint.nl/nl-nl/craftbot-cbp-base-bed-210000003662) (optional)
+* [Improved heated bed](https://eu.craftbot.com/products/craftbot-plus-pro-glass-build-plate) (optional)
 
 # Used firmware
 
