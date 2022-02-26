@@ -24,9 +24,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 # Used hardware
 
-* [Bigtreetech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
-
-* 4x BigTreeTech TMC2209 stepperdrivers
+* [Bigtreetech SKR1.4 pro with 5x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
 
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
