@@ -14,12 +14,12 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
 * Get the backplate for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 
-# Software setup
+# RepRap software setup
 * Please follow all the instruction on the firmware-website below.
 * To make the Craftbot and SKR1.4 setup more easy for you, here is a full copy of my SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
 
-* For starters, you can use my Marlin-setup first, to test your Craftbot with the SKR1.4Pro (without RPI3). You can find the complete Marlin setup code here: 
-(this will not be updated anymore)
+# Marlin software setup (this will not be updated)
+* For starters, you can use my Marlin-setup first, to test your Craftbot with the SKR1.4Pro (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip
 
 # Used hardware
 
