@@ -13,6 +13,19 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Pro, you can find the pinout image here: img/SKR-V1.4-Turbo-pinout.jpg
 * Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
 * Get the backplate for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
+* Get some hardware:
+* BigTreeTech SKR1.4 (turbo) mainboard
+* 4x BigTreeTech TMC2209 stepperdrivers
+BigTreeTech TFT3.5 v3.0 display
+BigTreeTech BTT Writer v1.0 (optional, WIFI adapter programmer)
+35cm neopixel 12volt (60 leds/meter) RGB-ledstrip (we will replace the original white ledstrip)
+stepdown XL6009e converter (we need this for the ledstrip)
+2x 120cm flatkabel 14wires (display: 3x5 wires, ledstrip: 3 wires)
+60cm flatkabel 2wires (for Y-end switch)
+2x 240cm wire (for fans)
+24v fan (to replace original 12v heaterfan)
+2x 24v fan (to replace original 12v objectfans)
+
 
 # RepRap software setup
 * Please follow all the instruction on the firmware-website below.
