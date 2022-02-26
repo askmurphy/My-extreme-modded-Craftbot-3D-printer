@@ -34,8 +34,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) (optional)
 
-* [Bigtreetech TFT3.5 v3.0](https://www.robotshop.com/en/gravity-mosfet-power-controller.html)
-2x DFRobot Gravity MOSFET Power Controller
+* [2x DFRobot Gravity MOSFET Power Controller](https://www.robotshop.com/en/gravity-mosfet-power-controller.html)
 
 * [Improved heated bed](https://eu.craftbot.com/products/craftbot-plus-pro-glass-build-plate) (optional)
 
