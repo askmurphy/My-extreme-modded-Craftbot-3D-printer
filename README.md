@@ -52,13 +52,15 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 # Wiring
 
-* Connect the 'RepRapFirmare Raspberry Pi to SKR Adapter' to the RPI3, connect the adapter to SKR-EXP2 using a 10wires-flatcable and 2x (2x5pins) connectors
-* Connect the X-stepper (Craftbot back right stepper) to SKR-XM
-* Connect the Y-stepper (Craftbot back left stepper) to SKR-YM
-* Connect the Z-stepper (Craftbot back middle stepper) to SKR-ZMA
-* Connect the E-stepper (Craftbot extruder stepper) to SKR-E0M
- 
-
+* Connect the 'RepRapFirmare Raspberry Pi to SKR Adapter' to the RPI3, connect the adapter to SKR:EXP2 using a 10-wire-flatcable and 2x (2x5pins) connectors
+* Connect the X-stepper (Craftbot back right stepper) to SKR:XM
+* Connect the Y-stepper (Craftbot back left stepper) to SKR:YM
+* Connect the Z-stepper (Craftbot back middle stepper) to SKR:ZMA
+* Connect the E-stepper (Craftbot extruder stepper) to SKR:E0M
+* Connect the X-stop (Craftbot extruder switch) to SKR:X-STOP
+* Connect the Y-stop (Inside Craftbot front right switch) to SKR:Y-STOP
+* Connect the Z-stop (Inside Craftbot back left switch) to 
+SKR:Z-STOP
 
 # Used firmware
 
