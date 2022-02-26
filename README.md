@@ -14,6 +14,10 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 * Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
 * Get the backplate for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 
+# Software setup
+* Please follow all the instruction on the firmware-website below.
+* You can find the firmware setup for the Craftbot and SKR1.4Pro here, just a full copy of the SDcard which is fitted in the SKR1.4pro mainboard:
+
 # Used hardware
 
 * [Bigtreetech SKR1.4 pro with 5x TMC2209](https://nl.aliexpress.com/item/4000478858144.html) 
