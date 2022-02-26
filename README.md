@@ -28,14 +28,14 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 * 4x BigTreeTech TMC2209 stepperdrivers
 
-* [2x DFRobot Gravity MOSFET Power Controller]
-(https://www.robotshop.com/en/gravity-mosfet-power-controller.html)
-
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
 * [RepRapFirmare Raspberry Pi to SKR 1.X Adapter for easy connect (one of Peter’s great creations!)](https://www.tindie.com/products/pcr/reprapfirmware-raspberry-pi-to-skr-1314progtr/) 
 
 * [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) (optional)
+
+* [2x DFRobot Gravity MOSFET Power Controller]
+(https://www.robotshop.com/en/gravity-mosfet-power-controller.html)
 
 * [Improved heated bed](https://eu.craftbot.com/products/craftbot-plus-pro-glass-build-plate) (optional)
 
