@@ -49,7 +49,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 
 * [stepdown XL6009e converter for ledstrip](https://nl.aliexpress.com/item/32340934616.html)
 
-* [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter] (https://www.tinytronics.nl/shop/en/power/voltage-converters/buck-(step-down)-converters/dc-dc-adjustable-step-down-buck-converter-xl4015-5a-with-current-limiter)
+* [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter]
 
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
 60cm flatkabel 2wires (for Y-end switch)
