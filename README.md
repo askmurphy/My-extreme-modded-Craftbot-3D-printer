@@ -49,13 +49,14 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 
 * [stepdown XL6009e converter for ledstrip](https://nl.aliexpress.com/item/32340934616.html)
 
-* [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter (https://www.tinytronics.nl/shop/en/power/voltage-converters/buck-(step-down)-converters/dc-dc-adjustable-step-down-buck-converter-xl4015-5a-with-current-limiter)
+* [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter] (https://www.tinytronics.nl/shop/en/power/voltage-converters/buck-(step-down)-converters/dc-dc-adjustable-step-down-buck-converter-xl4015-5a-with-current-limiter)
 
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
 60cm flatkabel 2wires (for Y-end switch)
 * 2x 240cm wire (for fans)
 * 24v fan (to replace original 12v heaterfan)
 * 2x 24v fan (to replace original 12v objectfans)
+* 1x 12v 60x60x25mm EE60251S1-1000U-999 Sunon fan (optional, to replace old 2410ML-04W-B20 BRUSHLESS FAN 12V Fan inside the original Meanwell SP-320-24V PSU)
 
 # Wiring
 
