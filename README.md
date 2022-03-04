@@ -106,6 +106,11 @@ SKR:Z-STOP
 
 * [RepRap firmware, created by a few great people!!](https://github.com/gloomyandy/RepRapFirmware) 
 
+# <strong>PID tuning</strong>
+You can find some info about it here: https://3dprintbeginner.com/hotend-and-heatbed-pid-tuning
+M303 E0 S245 C8 (extruder)
+M303 E-1 S90 C8 (bed)
+
 # Tips
 - get some free time and have patient ;-)
 
