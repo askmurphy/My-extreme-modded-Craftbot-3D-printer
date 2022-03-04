@@ -27,6 +27,16 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 # Marlin software setup (optional)
 * For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4Pro (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip (this will not be updated, totally switched to RepRap now..)
 
+<strong>WIFI setup</strong>
+https://github.com/luc-github/ESP3D
+https://github.com/luc-github/ESP3D-WEBUI
+
+# <strong>Craftbot hardware</strong>
+* 24Volt PSU
+* Extruder stepper: 17HS3001-20B
+* X,Y, Z steppers: 17HS3001-26B (or SL42S247A: 1.8deg.step DC2.5A)
+
+
 # Used hardware
 
 * [Bigtreetech SKR1.4 pro with 5x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
