@@ -39,7 +39,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 * X,Y, Z steppers: 17HS3001-26B (or SL42S247A: 1.8deg.step DC2.5A)
 
 
-# Used hardware
+# Used modification hardware
 
 * [Bigtreetech SKR1.4 pro with 5x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
 
