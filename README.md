@@ -1,6 +1,8 @@
 # My extreme modded Craftbot 3D-printer
 After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, busy for 2 year (allways too little free time), but now ithe mod is almost done and this old printer is alive again and makes nice prints!  Time for sharing..
 
+<strong>This documentation is almost ready, working on it ;-)</strong>
+
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
 My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & heated bed.
@@ -28,8 +30,8 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 * For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4Pro (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip (this will not be updated, totally switched to RepRap now..)
 
 <strong>WIFI setup</strong>
-https://github.com/luc-github/ESP3D
-https://github.com/luc-github/ESP3D-WEBUI
+* https://github.com/luc-github/ESP3D
+* https://github.com/luc-github/ESP3D-WEBUI
 
 # <strong>Craftbot hardware</strong>
 * 24Volt PSU
