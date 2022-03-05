@@ -5,7 +5,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
-My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & heated bed.
+My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors with silencers, filament sensor, etc..
  
 | Just a few photo's | will be updated soon! |
 |------------|-------------|
@@ -40,7 +40,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 
 # Used modification hardware
 
-* [Bigtreetech SKR1.4 pro with 5x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
+* [Bigtreetech SKR1.4 pro with 4x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
 
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
 
@@ -48,11 +48,13 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend & 
 
 * [Bigtreetech TFT3.5 v3.0](https://nl.aliexpress.com/item/4000068088326.html) (optional)
 
-* [2x DFRobot Gravity MOSFET Power Controller](https://www.robotshop.com/en/gravity-mosfet-power-controller.html)
+* [Bigtreetech Filament sensor](https://www.aliexpress.com/item/4000269547406.html) (optional)
 
-* [Improved heated bed](https://eu.craftbot.com/products/craftbot-plus-pro-glass-build-plate) (optional)
+* [DFRobot Gravity MOSFET Power Controller](https://www.robotshop.com/en/gravity-mosfet-power-controller.html)
 
-* [Craftbot plus all-metal hotend](https://eu.craftbot.com/collections/spare-parts/products/craftbot-plus-pro-all-metal-hotend
+* [Craftbot Improved heated bed](https://eu.craftbot.com/products/craftbot-plus-pro-glass-build-plate) (optional)
+
+* [Craftbot all-metal hotend](https://eu.craftbot.com/collections/spare-parts/products/craftbot-plus-pro-all-metal-hotend
 ) (optional)
 
 * BigTreeTech BTT Writer v1.0 (optional, Marlin only, WIFI adapter * programmer)
@@ -96,7 +98,9 @@ SKR:Z-STOP
 * Connect the input of the stepdown XL6009e converter to the 24V PSU, tune the output of the converter to 12Volt
 * Connect the 12V/GND of the LED-strip to the output of the stepdown XL6009e converter
 
-=> List not complete yet: Case fan details will be added asap.
+=> ToDo: 
+* Case fan (waiting for ordered 24V fan)
+* Bigtreetech Filament sensor
 
 => Allways check every connection twice, make sure you use the correct polarity!!
 
