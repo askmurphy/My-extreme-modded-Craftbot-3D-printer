@@ -10,6 +10,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "SKR1.4 turbo, stepdown XL6009e converter, DFRobot Gravity MOSFET Power Controller Backplate") |
 | ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter Backplate") | ![Alt text](img/cat6-chassis.avif?raw=true "Devine NCD chassisdeel crystal adapter D-size") |
 | ![Alt text](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") | ![Alt text](img/usb-panel-mount.jpg?raw=true "Panel mount USB B to USB B cable") |
+| ![Alt text](img/BTT-filament-sensor.jpg?raw=true "Bigtreetech filament sensor") |  |
 
 
 # Let's MODDING your Craftbot!
@@ -102,7 +103,7 @@ SKR:Z-STOP
 * Connect the 2 datalines of the LED-strip to SKR:Neopixel
 * Connect the input of the stepdown XL6009e converter to the 24V PSU, tune the output of the converter to 12Volt
 * Connect the 12V/GND of the LED-strip to the output of the stepdown XL6009e converter
-* Connect the BTT filamentsensor to SKR:I2C, G=GND, V=+5V, S=0.0 (optional)
+* Connect the (optional) BTT filamentsensor to SKR:I2C, G=GND, V=+5V, S=0.0
 
 => ToDo: 
 * Case fan (waiting for ordered 24V fan)
