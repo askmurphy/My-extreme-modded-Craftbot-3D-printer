@@ -17,6 +17,12 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") |
 
 
+| Electronic design | LoRa T-Beam |
+|------------|-------------|
+| ![Alt text](img/img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/img/modded-craftbot-wired.jpg?raw=true "Backside") |
+| ![Alt text](img/img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/img/modded-craftbot-wired.jpg?raw=true "Backside") |
+
+
 # Let's MODDING your Craftbot!
 * First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Pro, you can find the pinout image here: img/SKR-V1.4-Turbo-pinout.jpg
 * Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
