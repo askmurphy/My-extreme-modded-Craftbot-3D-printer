@@ -19,8 +19,8 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 | Electronic design | LoRa T-Beam |
 |------------|-------------|
-| ![Alt text](img/img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/img/modded-craftbot-wired.jpg?raw=true "Backside") |
-| ![Alt text](img/img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/img/modded-craftbot-wired.jpg?raw=true "Backside") |
+| ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
+| ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
 
 
 # Let's MODDING your Craftbot!
