@@ -63,7 +63,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 * [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter]
 
-* [Panel mount USB B to USB B cable](https://www.kiwi-electronics.nl/nl/panel-mount-usb-b-naar-usb-b-kabel-1629) (connect this cable to the USB-port of the SKR1.4 Turbo)
+* [Panel mount USB B to USB B cable](https://www.kiwi-electronics.nl/nl/panel-mount-usb-b-naar-usb-b-kabel-1629) (mount the adapter to the orginal Crafbot case USB-hole and connect the cable to the USB-port of the SKR1.4 Turbo)
 
 * [Devine NCD chassisdeel crystal adapter D-size](https://www.bax-shop.nl/ethernet-chassisdeel/devine-ncd-chassisdeel-crystal-adapter-d-size) (make 3 holes in the Crafbot backplate, use a short UTP-cable to connect this adapter to the RPi)
 
