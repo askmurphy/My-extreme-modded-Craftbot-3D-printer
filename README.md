@@ -10,7 +10,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 | Just a few photo's | Click to enlarge..|
 |------------|-------------|
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
-| ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
+| ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter") | ![Alt text](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") |
 
 
 # Let's MODDING your Craftbot!
