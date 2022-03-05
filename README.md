@@ -102,10 +102,10 @@ SKR:Z-STOP
 * Connect the 2 datalines of the LED-strip to SKR:Neopixel
 * Connect the input of the stepdown XL6009e converter to the 24V PSU, tune the output of the converter to 12Volt
 * Connect the 12V/GND of the LED-strip to the output of the stepdown XL6009e converter
+* Connect the BTT filamentsensor to SKR:I2C, G=GND, V=+5V, S=0.0 (optional)
 
 => ToDo: 
 * Case fan (waiting for ordered 24V fan)
-* Bigtreetech Filament sensor
 
 => Allways check every connection twice, make sure you use the correct polarity!!
 
