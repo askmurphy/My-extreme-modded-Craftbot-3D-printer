@@ -7,20 +7,10 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors with silencers, filament sensor, etc..
  
-| Just a few photo's | will be updated soon! |
-|------------|-------------|
-| ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") |
- ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") | 
-| ![Alt text](img/modded-craftbot-rpi-wired.jpg
-.jpg?raw=true "Converter XL4015 Backside") | 
-
-| ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") |
-
-
-| Electronic design | LoRa T-Beam |
+| Just a few photo's | Click to enlarge..|
 |------------|-------------|
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
-| ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter wired") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
+| ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
 
 
 # Let's MODDING your Craftbot!
