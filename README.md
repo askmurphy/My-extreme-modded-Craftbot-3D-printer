@@ -62,6 +62,8 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 * [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter]
 
+* [Panel mount USB B to USB B cable](https://www.kiwi-electronics.nl/nl/panel-mount-usb-b-naar-usb-b-kabel-1629)
+
 * [2x NEMA17 Vibration Damper Shock Absorber for X and Y-steppers](https://www.aliexpress.com/item/33036894200.html) (optional)
 
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
