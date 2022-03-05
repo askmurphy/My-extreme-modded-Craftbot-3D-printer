@@ -32,10 +32,10 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 * https://github.com/luc-github/ESP3D
 * https://github.com/luc-github/ESP3D-WEBUI
 
-# <strong>Craftbot hardware</strong>
+# <strong>Original Craftbot hardware</strong>
 * Meanwell SP-320-24V PSU
 * Extruder stepper: 17HS3001-20B
-* X,Y, Z steppers: 17HS3001-26B (or SL42S247A: 1.8deg.step DC2.5A)
+* X,Y, Z steppers: 17HS3001-26B (optional replacement: SL42S247A: 1.8deg.step DC2.5A)
 
 
 # Used modification hardware
