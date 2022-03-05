@@ -33,7 +33,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 * https://github.com/luc-github/ESP3D-WEBUI
 
 # <strong>Craftbot hardware</strong>
-* 24Volt PSU
+* Meanwell SP-320-24V PSU
 * Extruder stepper: 17HS3001-20B
 * X,Y, Z steppers: 17HS3001-26B (or SL42S247A: 1.8deg.step DC2.5A)
 
@@ -69,7 +69,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 * 2x 240cm wire (for fans)
 * 24v fan (to replace original 12v heaterfan)
 * 2x 24v fan (to replace original 12v objectfans)
-* 1x 12v 60x60x25mm EE60251S1-1000U-999 Sunon fan (optional, to replace old 2410ML-04W-B20 BRUSHLESS FAN 12V Fan inside the original Meanwell SP-320-24V PSU)
+* 1x 12v 60x60x25mm EE60251S1-1000U-999 Sunon fan (optional, to replace old 2410ML-04W-B20 BRUSHLESS FAN 12V Fan inside the original installed PSU)
 
 # Wiring
 
