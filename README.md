@@ -9,7 +9,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 |------------|-------------|
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "Backside") |
 | ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter") | ![Alt text](img/cat6-chassis.avif?raw=true "Devine NCD chassisdeel crystal adapter D-size") |
-| ![Alt text](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") | ![Alt text](img/cat6-chassis.avif?raw=true "Devine NCD chassisdeel crystal adapter D-size") |
+| ![Alt text](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") | ![Alt text](img/usb-panel-mount.jpg?raw=true "Panel mount USB B to USB B cable") |
 
 
 # Let's MODDING your Craftbot!
