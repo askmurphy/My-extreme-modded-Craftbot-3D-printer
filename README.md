@@ -14,7 +14,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 
 # Let's MODDING your Craftbot!
-* First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Pro, you can find the pinout image here: img/SKR-V1.4-Turbo-pinout.jpg
+* First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Yurbo
 * Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
 * Get the backplates for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 * Nice TFT3.5 case: https://www.thingiverse.com/thing:4839597
