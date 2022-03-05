@@ -5,7 +5,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, b
 
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
-My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors with silencers, filament sensor, etc..
+My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors with silencers, filament sensor, RGB ledstrip, etc..
  
 | Just a few photo's | Click to enlarge..|
 |------------|-------------|
