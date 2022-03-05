@@ -3,7 +3,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, t
 
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
-My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors with silencers, filament sensor, RGB ledstrip, etc..
+My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors,  2x NEMA17 Vibration Damper Shock Absorbers, filament sensor, RGB ledstrip, etc..
  
 | Just a few photo's | Click to enlarge..|
 |------------|-------------|
@@ -61,6 +61,8 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 * [stepdown XL6009e converter for ledstrip](https://nl.aliexpress.com/item/32340934616.html)
 
 * [DC-DC Adjustable Step-down Buck Converter XL4015 5A - with Current Limiter]
+
+* [2x NEMA17 Vibration Damper Shock Absorber for X and Y-steppers](https://www.aliexpress.com/item/33036894200.html) (optional)
 
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
 60cm flatkabel 2wires (for Y-end switch)
