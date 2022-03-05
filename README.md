@@ -65,7 +65,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 * [Panel mount USB B to USB B cable](https://www.kiwi-electronics.nl/nl/panel-mount-usb-b-naar-usb-b-kabel-1629)
 
-* [Devine NCD chassisdeel crystal adapter D-size](https://www.bax-shop.nl/ethernet-chassisdeel/devine-ncd-chassisdeel-crystal-adapter-d-size)
+* [Devine NCD chassisdeel crystal adapter D-size](https://www.bax-shop.nl/ethernet-chassisdeel/devine-ncd-chassisdeel-crystal-adapter-d-size) (make 3 holes in the Crafbot backplate, use a short UTP-cable to connect this adapter to the RPi)
 
 * [2x NEMA17 Vibration Damper Shock Absorber for X and Y-steppers](https://www.aliexpress.com/item/33036894200.html) (optional)
 
