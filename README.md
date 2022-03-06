@@ -15,7 +15,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 # Let's MODDING your Craftbot!
 * First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Yurbo
-* Remove the old Craftbot electronics: mainboard and TFT, we don't need it..
+* Remove the old Craftbot electronics: mainboard and TFT and case fan, we don't need it..
 * Get the backplates for the new electronics, you can find it here: https://www.thingiverse.com/thing:4499006
 * Nice TFT3.5 case: https://www.thingiverse.com/thing:4839597
 
@@ -23,10 +23,10 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 # RepRap software setup
 * Please follow all the instruction on the firmware-website below.
-* To make the Craftbot and SKR1.4 setup more easy for you, here is a full copy of my SDcard which is fitted in the SKR1.4pro mainboard: code/_SDCARD SKR1.4pro.zip
+* To make the Craftbot and SKR1.4turbo setup more easy for you, you can find a full copy of my Reprap-configuration in the <strong>code/</strong> folder
 
 # Marlin software setup (optional)
-* For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4Pro (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip (this will not be updated, totally switched to RepRap now..)
+* For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4 Turbo (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip (this will not be updated, totally switched to RepRap now..)
 
 <strong>WIFI setup</strong>
 * https://github.com/luc-github/ESP3D
@@ -40,9 +40,9 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 # Used modification hardware
 
-* [Bigtreetech SKR1.4 pro with 4x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
+* [Bigtreetech SKR1.4 Turbo with 4x TMC2209 stepperdrivers](https://nl.aliexpress.com/item/4000478858144.html) 
 
-* [Raspberry Pi 3 Model B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b) 
+* [Raspberry Pi4](https://www.raspberrypi.com/products) 
 
 * [RepRapFirmare Raspberry Pi to SKR 1.X Adapter for easy connect (one of Peter’s great creations!)](https://www.tindie.com/products/pcr/reprapfirmware-raspberry-pi-to-skr-1314progtr/) 
 
@@ -106,7 +106,7 @@ SKR:Z-STOP
 * Connect the (optional) BTT filamentsensor to SKR:I2C, G=GND, V=+5V, S=0.0
 
 => ToDo: 
-* Case fan (waiting for ordered 24V fan)
+* The orginal case fan had to be removed, too little space left. Working at a different (and better) solution..
 
 => Allways check every connection twice, make sure you use the correct polarity!!
 
@@ -124,5 +124,6 @@ M303 E-1 S90 C8 (bed)
 
 # Tips
 - get some free time and have patient ;-)
+- A Raspberry Pi3 model B can be used also (tested), but the Pi4 gives you a quicker printer-interface!
 
 
