@@ -27,7 +27,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 
 # Marlin software setup (optional)
-* For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4 Turbo (without RPI3). You can find the complete Marlin setup code here: [Marlin code](code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip) (this will not be updated, totally switched to RepRap now..)
+* For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4 Turbo (without RPI3). You can find the complete Marlin setup code [here](code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip) (this will not be updated, totally switched to RepRap now..)
 
 <strong>WIFI setup</strong>
 * https://github.com/luc-github/ESP3D
