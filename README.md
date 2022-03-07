@@ -9,7 +9,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 |------------|-------------|
 | ![Alt text](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![Alt text](img/modded-craftbot-wired.jpg?raw=true "SKR1.4 turbo, stepdown XL6009e converter, DFRobot Gravity MOSFET Power Controller Backplate") |
 | ![Alt text](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter Backplate") | ![Alt text](img/cat6-chassis.png?raw=true "Devine NCD chassisdeel crystal adapter D-size") |
-| ![Alt text](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") | ![Panel mount USB B to USB B cable](img/usb-panel-mount.jpg?raw=true "Panel mount USB B to USB B cable") |
+| ![Alt text](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") | ![Alt text](img/usb-panel-mount.jpg?raw=true "Panel mount USB B to USB B cable") |
 | ![Alt text](img/BTT-filamentSensor.jpg?raw=true "Bigtreetech filament sensor") |  |
 
 
@@ -23,10 +23,11 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 # RepRap software setup
 * Please follow all the instruction on the firmware-website below.
-* To make the Craftbot and SKR1.4turbo setup more easy for you, you can find a full copy of my Reprap-configuration here: (https://github.com/askmurphy/My-extreme-modded-Craftbot-3D-printer/tree/main/code)
+* To make the Craftbot and SKR1.4turbo setup more easy for you, you can find a full copy of my Reprap-configuration in the <strong>code/</strong> folder
+
 
 # Marlin software setup (optional)
-* For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4 Turbo (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip (this will not be updated, totally switched to RepRap now..)
+* For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4 Turbo (without RPI3). You can find the complete Marlin setup code here: ![Marlin code](code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip) (this will not be updated, totally switched to RepRap now..)
 
 <strong>WIFI setup</strong>
 * https://github.com/luc-github/ESP3D
