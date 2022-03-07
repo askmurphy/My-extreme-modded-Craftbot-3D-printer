@@ -23,7 +23,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 # RepRap software setup
 * Please follow all the instruction on the firmware-website below.
-* To make the Craftbot and SKR1.4turbo setup more easy for you, you can find a full copy of my Reprap-configuration here: https://github.com/askmurphy/My-extreme-modded-Craftbot-3D-printer/tree/main/code
+* To make the Craftbot and SKR1.4turbo setup more easy for you, you can find a full copy of my Reprap-configuration here: (https://github.com/askmurphy/My-extreme-modded-Craftbot-3D-printer/tree/main/code)
 
 # Marlin software setup (optional)
 * For starters, you can use my inital Marlin-setup first, to test your Craftbot with the SKR1.4 Turbo (without RPI3). You can find the complete Marlin setup code here: code/21-7-2020_CB2_SKR14_Marlin-2.0.x.zip (this will not be updated, totally switched to RepRap now..)
