@@ -10,7 +10,7 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware v3.3.x, improved ho
 | ![BTT TFT3.5 v3.0](img/modded-craftbot-BBT-tft35.jpg?raw=true "BTT TFT3.5 v3.0") | ![SKR1.4 turbo backplate](img/modded-craftbot-wired.jpg?raw=true "SKR1.4 turbo, stepdown XL6009e converter, DFRobot Gravity MOSFET Power Controller Backplate") |
 | ![RPi & XL4015 converter Backplate](img/modded-craftbot-rpi-wired.jpg?raw=true "RPi & XL4015 converter Backplate") | ![Devine NCD chassis psrt crystal adapter D-size](img/cat6-chassis.png?raw=true "Devine NCD chassis psrt crystal adapter D-size") |
 | ![SKR v1.4 Turbo pinout](img/SKR-V1.4-Turbo-pinout.jpg?raw=true "SKR v1.4 Turbo pinout") | ![Panel mount USB B to USB B cable](img/usb-panel-mount.jpg?raw=true "Panel mount USB B to USB B cable") |
-| ![BTT smart filament sensor](img/BTT_filament_Sensor.jpg?raw=true "Bigtreetech filament sensor") | ![Raspberry Pi Camera](img/rpi-cam.jpeg?raw=true "Raspberry Pi Camera") |
+| ![BTT smart filament sensor](img/BTT_filament_Sensor.jpg?raw=true "Bigtreetech filament sensor") | ![Raspberry Pi Camera](img/rpi-cam.jpg?raw=true "Raspberry Pi Camera") |
 
 # Let's MODDING your Craftbot!
 * First off all, get the pinout of your new 3D-printer mainboard, I used the SKR1.4 Yurbo
