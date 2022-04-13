@@ -3,7 +3,7 @@ After some hardware issues I want to upgrade my nice Craftbot Plus 3D-printer, t
 
 ![image](img/modded-craftbot.jpg?raw=true "Modded Craftbot")
 
-My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, hotend-fan & heated bed, 3 new steppermotors,  2x NEMA17 Vibration Damper Shock Absorbers, filament sensor, RGB ledstrip, RPi4, etc..
+My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware v3.3.x, improved hotend, hotend-fan & heated bed, 3 new steppermotors,  2x NEMA17 Vibration Damper Shock Absorbers, filament sensor, RGB ledstrip, RPi4, Camera, etc..
  
 | Just a few photo's | Click to enlarge..|
 |------------|-------------|
@@ -70,10 +70,13 @@ My modifications: SKR1.4 Turbo, TFT3.5 v3.0, Reprap firmware, improved hotend, h
 
 * [2x NEMA17 Vibration Damper Shock Absorber for X and Y-steppers](https://www.aliexpress.com/item/33036894200.html) (optional)
 
+* RPi camera (optional)
+
 * flatkabel 10wires (display: 5 wires, ledstrip: 3 wires)
 60cm flatkabel 2wires (for Y-end switch)
 * 2x 240cm wire (for fans)
 * 24v fan (to replace original 12v heaterfan)
+* 24v fan (to replace original 12v Case fan)
 * 2x 24v fan (to replace original 12v objectfans)
 * 1x 12v 60x60x25mm EE60251S1-1000U-999 Sunon fan (optional, to replace old 2410ML-04W-B20 BRUSHLESS FAN 12V Fan inside the original installed PSU)
 
@@ -104,9 +107,7 @@ SKR:Z-STOP
 * Connect the input of the stepdown XL6009e converter to the 24V PSU, tune the output of the converter to 12Volt
 * Connect the 12V/GND of the LED-strip to the output of the stepdown XL6009e converter
 * Connect the (optional) BTT filamentsensor to SKR:I2C, G=GND, V=+5V, S=0.0
-
-=> ToDo: 
-* The orginal case fan had to be removed, too little space left. Working at a different (and better) solution..
+* Connect the 24V Case fan to SKR:FAN2
 
 => Allways check every connection twice, make sure you use the correct polarity!!
 
@@ -114,6 +115,18 @@ SKR:Z-STOP
 # Used firmware
 
 * [RepRap firmware, created by a few great people!!](https://github.com/gloomyandy/RepRapFirmware) 
+- https://teamgloomy.github.io/lpc_sbc.html
+- after installation, downgrade the RepRap firmware to v3.3.x with:
+
+wget https://raw.githubusercontent.com/TeamGloomy/LPC-STM32-DSF-Install_Script/master/RRF_LPC_3_3_0.sh
+sudo chmod 755 RRF_LPC_3_3_0.sh
+./RRF_LPC_3_3_0.sh
+
+# Rpi-Camera setup
+- enable the Camera with raspi-config first
+- follow these nice instructions (works perfect on a RPi4): https://github.com/cncjs/cncjs/wiki/Setup-Guide:-Raspberry-Pi-%7C-MJPEG-Streamer-Install-&-Setup-&-FFMpeg-Recording
+- after this setup, last thing to do is: sudo chown pi:pi /home/pi/mjpg-streamer.sh
+- After reboot, enter http://your-local-ip-address:8080/?action=stream in Reprap-panel->Settings->General->Webcam
 
 # <strong>PID tuning</strong>
 You can find some info about it here: https://3dprintbeginner.com/hotend-and-heatbed-pid-tuning
