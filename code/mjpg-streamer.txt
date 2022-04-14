@@ -1,0 +1,89 @@
+Setup Guide: Raspberry Pi | MJPEG Streamer Install & Setup & FFMpeg Recording
+https://github.com/cncjs/cncjs/wiki/Setup-Guide:-Raspberry-Pi-%7C-MJPEG-Streamer-Install-&-Setup-&-FFMpeg-Recording
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MJPEG-Streamer Install & Setup
+==============================
+https://github.com/jacksonliam/mjpg-streamer
+http://raspberrypi.stackexchange.com/questions/36734/compile-mjpg-streamer-error
+
+# Update & Install Tools
+sudo apt-get update -y
+sudo apt-get upgrade -y
+sudo apt-get install build-essential git imagemagick libv4l-dev libjpeg-dev cmake -y
+
+# Clone Repo in /tmp
+cd /tmp
+git clone https://github.com/jacksonliam/mjpg-streamer.git
+cd mjpg-streamer/mjpg-streamer-experimental
+
+# Make
+make
+sudo make install
+
+# Run
+/usr/local/bin/mjpg_streamer -i "input_uvc.so -r 1280x720 -d /dev/video0 -f 30" -o "output_http.so -p 8080 -w /usr/local/share/mjpg-streamer/www"
+
+MJPEG-Streamer Auto Start - Manager Script
+==========================================
+
+nano /home/pi/mjpg-streamer.sh
+
+(file already in this folder!)
+
+Start on Boot
+-------------
+
+# Make Executable
+chmod +x /home/pi/mjpg-streamer.sh
+
+>> importent: <<
+sudo chown pi:pi /home/pi/mjpg-streamer.sh
+
+# Open Cron Job
+crontab -e
+
+# Add line
+@reboot /home/pi/mjpg-streamer.sh start
+
+FFMpeg Compile, Install, & Setup
+================================
+
+http://www.jeffreythompson.org/blog/2014/11/13/installing-ffmpeg-for-raspberry-pi/
+
+# Install FFMpeg from Package Manager
+sudo apt-get update  
+sudo apt-get install ffmpeg -y
+
+---- OR ------
+
+# COMPILE & INSTALL FFMPEG
+# Run as Sudo
+sudo -i
+
+# INSTALL H264 SUPPORT
+cd /usr/src
+git clone https://code.videolan.org/videolan/x264.git
+cd x264
+./configure --host=arm-unknown-linux-gnueabi --enable-static --disable-opencl
+make
+sudo make install
+
+# COMPILE & INSTALL FFMPEG (This may take a REALLY long time, so be patient.)
+cd /usr/src
+git clone https://github.com/FFmpeg/FFmpeg.git
+cd FFmpeg
+sudo ./configure --arch=armel --target-os=linux --enable-gpl --enable-libx264 --enable-nonfree
+make
+sudo make install
+
+Recored Stream w/ ffmpeg
+========================
+
+# [Varables]
+source_stream="http://localhost:8080/?action=stream"
+destination_directory="/home/pi/Videos"
+destination_file="cncjs-recording_$(date +'%Y%m%d_%H%M%S').mpeg"
+
+# Recored Stream w/ ffmpeg
+ffmpeg -f mjpeg -re -i "${source_stream}" -q:v 10 "${destination_directory}/${destination_file}"
