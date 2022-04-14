@@ -125,7 +125,8 @@ sudo chmod 755 RRF_LPC_3_3_0.sh
 - enable the Camera with raspi-config first
 - follow these nice instructions (works perfect on a RPi4): <strong>https://github.com/cncjs/cncjs/wiki/Setup-Guide:-Raspberry-Pi-%7C-MJPEG-Streamer-Install-&-Setup-&-FFMpeg-Recording</strong>,
   after this setup, last thing to do is: sudo chown pi:pi /home/pi/mjpg-streamer.sh
-- Just to have a backup of it, the instructions and autorun-file are added to the above <strong>/code/</strong> folder: mjpg-streamer.txt and mjpg-streamer.sh
+- Just to have a backup of it, I added the above Camera [instructions](code/mjpg-streamer.txt) and [autorun-file](code/mjpg-streamer.sh) to this page too.  
+
 - After reboot, enter http://your-local-ip-address:8080/?action=stream in Reprap-panel->Settings->General->Webcam
 
 # <strong>PID tuning</strong>
